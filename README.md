@@ -21,8 +21,8 @@ To run this application, you need **Python** and the following libraries:
 
 1.  **Clone the repository** (or download `VCF_data_processor.py`):
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/shrush45/Variant_data_extracter
+    cd Variant_data_extracter
     ```
 
 2.  **Install the required libraries:**
